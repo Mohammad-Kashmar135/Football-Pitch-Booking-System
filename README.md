@@ -1,4 +1,4 @@
-# Football-Pitch_Booking-system-mini-project02-B4F-Chorot8-2026
+# Football-Pitch_Booking-system
 
 ## 📖 About The Project
 
